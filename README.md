@@ -1,5 +1,7 @@
 # flickertester
-RaspberryPi Pico to visualize flicker of LED lamps
+Using RaspberryPi Pico to visualize flicker of LED lamps
+
+![Example](./ft_example1.jpg)
 
 A small project for visualizing the flicker of LED lamps on a display. On the left side the minimum and maximum measured brightness value is shown, on the lower right side the calculated flicker frequency in Hertz.
 
