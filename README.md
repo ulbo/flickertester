@@ -16,6 +16,7 @@ The analogue output value of the OPT101 is digitized by the Pico which shows the
 ![Breadboard circuit](./ft_breadboard.jpg)
 
 **References**
+
 SH1106 driver: https://github.com/robert-hh/SH1106
 
 OPT101 circuit: https://www.electroschematics.com/photodiode/
