@@ -9,4 +9,13 @@ Implementation is done in MicroPython on a RaspberryPi Pico using a CJMCU breako
 
 The analogue output value of the OPT101 is digitized by the Pico which shows the waveform on the display. Implementation is quite crude; more a proof-of-concept than a "real" device.
 
+**Circuit**
+![Circuit](ft_circuit.png)
+
+**Breadboard**
 ![Breadboard circuit](./ft_breadboard.jpg)
+
+**References**
+SH1106 driver: https://github.com/robert-hh/SH1106
+OPT101 circuit: https://www.electroschematics.com/photodiode/
+DMA code borrowed from https://iosoft.blog/2021/10/26/pico-adc-dma/
