@@ -17,5 +17,7 @@ The analogue output value of the OPT101 is digitized by the Pico which shows the
 
 **References**
 SH1106 driver: https://github.com/robert-hh/SH1106
+
 OPT101 circuit: https://www.electroschematics.com/photodiode/
+
 DMA code borrowed from https://iosoft.blog/2021/10/26/pico-adc-dma/
